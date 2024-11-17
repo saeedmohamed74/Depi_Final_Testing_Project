@@ -1,0 +1,14 @@
+com\automation\pages\TestCasesPage.class
+com\automation\pages\ContactUsPage.class
+com\automation\tests\VerifyAllProductsAndProductDetailPageTest.class
+com\automation\pages\LoginPage.class
+com\automation\pages\SignupPage.class
+com\automation\tests\RegisterUserWithExistingEmailTest.class
+com\automation\drivers\DriverManager.class
+com\automation\pages\HomePage.class
+com\automation\base\BaseTest.class
+com\automation\pages\AccountPage.class
+com\automation\tests\ContactUsFormTest.class
+com\automation\pages\ProductsPage.class
+com\automation\tests\VerifyTestCasesPageTest.class
+com\automation\tests\LoginTest.class
